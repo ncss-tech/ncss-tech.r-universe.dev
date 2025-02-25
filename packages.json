@@ -1,0 +1,38 @@
+[
+    {
+        "package": "aqp",
+        "url": "https://github.com/ncss-tech/aqp"
+    },
+    {
+        "package": "soilDB",
+        "url": "https://github.com/ncss-tech/soilDB"
+    },    
+    {
+        "package": "sharpshootR",
+        "url": "https://github.com/ncss-tech/sharpshootR"
+    },        
+    {
+        "package": "soilReports",
+        "url": "https://github.com/ncss-tech/soilReports"
+    },    
+    {
+        "package": "soilDBdata",
+        "url": "https://github.com/brownag/soilDBdata"
+    },    
+    {
+        "package": "rosettaPTF",
+        "url": "https://github.com/ncss-tech/rosettaPTF"
+    },
+    {
+        "package": "jNSMR",
+        "url": "https://github.com/ncss-tech/jNSMR"
+    },
+    {
+        "package": "SSURGOPortal",
+        "url": "https://github.com/brownag/SSURGOPortalR"
+    },
+    {
+        "package": "rgeowheels",
+        "url": "https://github.com/brownag/rgeowheels"
+    }
+]

@@ -34,5 +34,9 @@
     {
         "package": "rgeowheels",
         "url": "https://github.com/brownag/rgeowheels"
+    },
+    {
+        "package": "terra",
+        "url": "https://github.com/rspatial/terra"
     }
 ]

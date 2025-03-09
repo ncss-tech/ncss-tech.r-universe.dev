@@ -8,6 +8,10 @@
         "url": "https://github.com/ncss-tech/soilDB"
     },    
     {
+        "package": "SoilTaxonomy",
+        "url": "https://github.com/ncss-tech/SoilTaxonomy"
+    },        
+    {
         "package": "sharpshootR",
         "url": "https://github.com/ncss-tech/sharpshootR"
     },        
